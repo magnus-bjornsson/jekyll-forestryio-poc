@@ -16,7 +16,8 @@ front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
 build:
-  preview_command: rvm use ruby-2.5.1 && bundle exec jekyll build
+  preview_command: rvm install "ruby-2.5.1" && rvm use ruby-2.5.1 && bundle exec jekyll
+    build
   publish_command: bundle exec jekyll build -d _site
   preview_env:
   - JEKYLL_ENV=staging
