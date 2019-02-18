@@ -42,4 +42,3 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - README.md
-  - index.md
