@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2019-02-07 23:36:49 -0500
+title: Welcome to Jekyll!
+date: 2019-02-08 04:36:49 +0000
 categories: jekyll update
+
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
@@ -12,14 +13,18 @@ Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
 def print_hi(name)
-  puts "Hi, #{name}"
+puts "Hi, #{name}"
 end
 print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+\#=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Check out the [Jekyll docs](https://jekyllrb.com/docs/home) for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo](https://github.com/jekyll/jekyll). If you have questions, you can ask them on [Jekyll Talk](https://talk.jekyllrb.com/).
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+This is a new edit using the forestry.io interface. This is pretty sweet! Check out the **bold** and _italics._ 
+
+    Code blocks are also possible. 
+
+As well as links to [google](https://www.google.com "google link") for example. You can even do block quotes: 
+
+> "I felt that this quote needed extra emphasis."
