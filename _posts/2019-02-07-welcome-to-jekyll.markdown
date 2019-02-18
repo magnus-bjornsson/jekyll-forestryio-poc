@@ -19,12 +19,14 @@ print_hi('Tom')
 \#=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
+Testing new user commit.
+
 Check out the [Jekyll docs](https://jekyllrb.com/docs/home) for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo](https://github.com/jekyll/jekyll). If you have questions, you can ask them on [Jekyll Talk](https://talk.jekyllrb.com/).
 
-This is a new edit using the forestry.io interface. This is pretty sweet! Check out the **bold** and _italics._ 
+This is a new edit using the forestry.io interface. This is pretty sweet! Check out the **bold** and _italics._
 
-    Code blocks are also possible. 
+    Code blocks are also possible.
 
-As well as links to [google](https://www.google.com "google link") for example. You can even do block quotes: 
+As well as links to [google](https://www.google.com "google link") for example. You can even do block quotes:
 
 > "I felt that this quote needed extra emphasis."
