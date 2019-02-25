@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: "/admin/"
-webhook_url: 
+webhook_url:
 sections:
 - type: jekyll-posts
   label: Posts
@@ -16,12 +16,12 @@ front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
 build:
-  preview_command: bundle exec jekyll build
+  preview_command: bundle exec jekyll build -d _site
   publish_command: bundle exec jekyll build -d _site
   preview_env:
   - RUBY_VERSION=2.5.1
   - JEKYLL_ENV=staging
   publish_env:
   - JEKYLL_ENV=production
-  preview_output_directory: "./_site"
+  preview_output_directory: _site
   output_directory: _site
