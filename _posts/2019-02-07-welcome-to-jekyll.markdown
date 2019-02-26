@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to Forestry!
+title: Testing Instant preview on Forestry
 date: 2019-02-08 04:36:49 +0000
 categories: jekyll update
 
